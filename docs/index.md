@@ -7,7 +7,6 @@ A befektetők döntéseit nem az értékek (saját preferenciáik), hanem más b
 A szépségverseny játékabn a nyertes nem az, aki a legszebb arcot választja (ez amúgy is szubjektív), hanem az, aki eltalálja, hogy **a többség kit választ legszebbnek.**
 
 Spekuláció szintjei: 
-
 1. Első szint: Az emberek azt választják, amit ők a legszebbnek gondolnak.
 2. Második szint: Az emberek azt választják, amit mások a legszebbnek tartanak.
 3. Harmadik szint: Az emberek azt próbálják kitalálni, hogy mások mit gondolnak arról, amit mindenki más választana.
@@ -38,3 +37,24 @@ A BCG játékot nem lehet modellezni teljesen racionális szereplők
 döntéseivel.
 
 A [szimulációs](szim.md) megvalósítás ...
+
+
+$$
+N=12
+$$
+
+[^12]: hellloooo
+
+`Nem tuodm`
+
+```python
+for i in range(1222):
+	print()
+```
+
+> helllllllo
+
+## hello
+
+
+
